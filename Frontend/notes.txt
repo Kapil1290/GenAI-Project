@@ -1,0 +1,20 @@
+
+
+4 layer in UI
+
+UI
+=> component
+=> pages
+
+Hook  -> for managing state and api layer
+=> hooks
+
+
+State -> data store
+=> auth.context.jsx
+=> api.context.jsx
+
+
+API -> to communicate with backend
+=>services
+   =>auth.api.jsx

@@ -1,0 +1,56 @@
+{
+  "matchScore": 85,
+   "technicalQuestion": [
+       {
+           "question": "How do you handle errors in a Node.js application?",
+           "intention": "To assess error handling skills",
+           "result": "The candidate provided a clear and concise answer, demonstrating a good understanding of error handling in Node.js."
+       },
+       {
+           "question": "What is the difference between var, let, and const in JavaScript?",
+           "intention": "To evaluate JavaScript fundamentals",
+           "result": "The candidate correctly explained the differences between var, let, and const, showcasing a strong grasp of JavaScript basics."
+       }
+   ],
+   "behavioralQuestion": [
+       {
+           "question": "Can you describe a situation where you had to work with a team to solve a complex problem?",
+           "intention": "To assess teamwork and problem-solving skills",
+           "result": "The candidate provided a relevant example from their internship experience, highlighting their ability to collaborate and contribute to a team."
+       },
+       {
+           "question": "How do you handle feedback or criticism on your code?",
+           "intention": "To evaluate the candidate's attitude towards feedback and improvement",
+           "result": "The candidate demonstrated a positive attitude towards feedback, acknowledging the importance of constructive criticism in improving their coding skills."
+       }
+   ],
+   "skillGap": [
+       {
+           "skill": "Database management",
+           "severity": "medium",
+           "result": "The candidate has a basic understanding of MongoDB and MySQL, but may require additional training or experience to become proficient in database management."
+       },
+       {
+           "skill": "Frontend development",
+           "severity": "low",
+           "result": "The candidate has a strong foundation in React.js and CSS, but may benefit from exploring other frontend frameworks and libraries to expand their skill set."
+       }
+   ],
+   "preparationPlan": [
+       {
+           "day": 1,
+           "focus": "Review of Java fundamentals",
+           "task": ["Practice coding exercises on Java", "Review Java documentation and resources"]
+       },
+       {
+           "day": 2,
+           "focus": "Node.js and Express.js development",
+           "task": ["Complete a Node.js project", "Explore Express.js middleware and routing"]
+       },
+       {
+           "day": 3,
+           "focus": "Database management and MongoDB",
+           "task": ["Complete MongoDB tutorials and exercises", "Practice database modeling and schema design"]
+       }
+   ]
+}
