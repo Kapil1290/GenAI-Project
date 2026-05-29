@@ -236,7 +236,10 @@ const interviewReportSchema = z.object({
             focus: z.string(),
             task: z.array(z.string())
         })
-    ).min(7)
+    ).min(7),
+
+    title:z.string().describe("The title of the job for which interview is generated"),
+    
 
 });
 
